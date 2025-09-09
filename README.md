@@ -1,1 +1,1 @@
-Data science projects developed for midterm and final grades of Digital and Data Studies. Focused on linear regression and machine learning models in order to facilitate accurate data analysis processes. 
+Data science projects developed for midterm and final grades of Digital and Data Studies class. Focused on linear regression and machine learning models in order to facilitate accurate data analysis processes. 
